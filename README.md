@@ -1,7 +1,7 @@
-# Ajaybabu | Data Analytics Specialist
+# Ajaybabu | Data Analyst | Power BI Expert | Tableau | Looker Studio
 
 ## 👨‍💻 About Me
-Data Analytics and Visualization Specialist with 11+ years of experience in IT and 5+ years focused on data analytics. I transform complex data into strategic insights that drive business decisions. Based in Chennai, India, I specialize in creating interactive dashboards and automated reporting solutions for businesses.
+Data Analytics and Visualization Specialist i transform complex data into strategic insights that drive business decisions. Based in Chennai, India, I specialize in creating interactive dashboards and automated reporting solutions for businesses.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Data_Visualization-Power_BI-informational?style=flat&logo=power-bi&logoColor=white&color=2bbc8a)
