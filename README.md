@@ -23,17 +23,17 @@ Data Analytics and Visualization Specialist i transform complex data into strate
 * Built with Power BI and SQL backend for data processing
 * [View Project](link-to-repository)
 
-###Coffee Chain Inc - Sales and Profit Analysis in Tableau
+### Coffee Chain Inc - Sales and Profit Analysis in Tableau
 * Tableau dashboard integrating GA4 data to track campaign effectiveness
 * Visualizes conversion rates, traffic sources, and ROI metrics
 * [View Project](link-to-repository)
 
-###Ecommerce Sales Analysis 
+### Ecommerce Sales Analysis 
 * Real-time visualization of inventory levels, automatic reorder point calculation
 * Built with Power BI and SQL backend for data processing
 * [View Project](link-to-repository)
 
- ###HR Analysis Dashboard
+ ### HR Analysis Dashboard
 * Real-time visualization of inventory levels, automatic reorder point calculation
 * Built with Power BI and SQL backend for data processing
 * [View Project](link-to-repository)
